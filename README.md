@@ -11,4 +11,3 @@ timeStamp: String variable,
 YYYY-MM-DD HH:MM:SS twp: String variable, Township
 addr: String variable, 
 Address e: String variable, Dummy variable (always 1)
-Just go along with this notebook and try to complete the instructions or answer the questions in bold using your Python and Data Science skills!
